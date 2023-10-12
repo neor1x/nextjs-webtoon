@@ -1,9 +1,9 @@
 module.exports = {
-    title: "Read Manga Online - NullMan",
+    title: "Watch animes online - AniZero",
     description: "",
-    canonical: "https://nullman.dev",
-    defaultTitle: 'NullMan',
-    titleTemplate: '%s – NullMan',
+    canonical: "https://anizero.mn",
+    defaultTitle: 'AniZerp',
+    titleTemplate: '%s – AniZero',
     additionalLinkTags: [
         {
             rel: 'preconnect',
