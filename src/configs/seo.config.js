@@ -2,7 +2,7 @@ module.exports = {
     title: "Watch animes online - AniZero",
     description: "",
     canonical: "https://anizero.mn",
-    defaultTitle: 'AniZerp',
+    defaultTitle: 'AniZero',
     titleTemplate: '%s – AniZero',
     additionalLinkTags: [
         {
